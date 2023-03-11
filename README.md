@@ -1,2 +1,2 @@
 # ONOS-Learning
-Some implementation record about my theses.
+Some implementation record.
