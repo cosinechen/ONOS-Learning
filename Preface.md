@@ -23,5 +23,3 @@ ONOS 1.14 以後的版本[Cluster Configuration](https://wiki.onosproject.org/pa
 Stratum + μONOS + P4
 新的ONOS版本看來是要應用於next-generation software-defined networks
 網路靈活性變更高
-
-但我時間不夠沒有去了解這一塊
